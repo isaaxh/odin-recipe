@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #feb236;
+    color: white;
+}
+
+#dish-name {
+    font-size: 70px;
+
+}
+
+#pancake-img {
+    width: 700px;
+    height: auto;
+}
+
+.para-h,
+#homebtn {
+    font-size: 35px
+}
+
+.para {
+    font-size: 28px;
+}
+
+.para-h,
+.para {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    text-align: justify;
+}
+
+#homebtn {
+    text-decoration: none;
+    color: white;
+}
